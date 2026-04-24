@@ -170,8 +170,5 @@ docs/repo-readme-refresh
 ## Visibility Notice
 Front-End와 Back-End 저장소는 모두 private입니다. 저장소 링크는 포함되어 있지만 외부 사용자는 접근 권한이 있어야 내용을 확인할 수 있습니다. 이 프로필에는 private 저장소의 내부 코드, 세부 실행 방법, 환경 변수, 인증 정보, 서버 주소를 포함하지 않습니다.
 
-## License
-현재 참조한 README 기준으로 공개된 라이선스 정보는 확인되지 않았습니다.
-
 ---
 This organization profile is maintained for project introduction purposes.
